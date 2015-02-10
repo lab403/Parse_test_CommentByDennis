@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parse_test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="text_title">PARSE</string>
+	<string name="text_name">NAME</string>
+	<string name="text_data">DATA</string>
+	<string name="text_id">ID</string>
+	<string name="text_search">Search</string>
+	
+	<string name="defalt_name">test</string>
+
+    <string name="button_push">Push Data</string>
+    <string name="button_search1">Search Name</string>
+    <string name="button_search2">Search Data</string>
+    <string name="button_update">Upadate</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_display">Display Data</string>
+    
+    <string name="version">ver.1.2.0</string>
+
+	
+</resources>
